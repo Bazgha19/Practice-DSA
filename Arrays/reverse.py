@@ -6,3 +6,4 @@ if len(arr) == n:
     print(rev(arr, len(arr)))
 else:
     print('Check your list range again!')
+    
